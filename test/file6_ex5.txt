@@ -1,0 +1,3 @@
+program started at: Mon May 11 21:45:17 2020
+WARNING WARNING at: Mon May 11 21:45:22 2020
+program ended at: Mon May 11 21:45:27 2020

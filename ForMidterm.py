@@ -25,3 +25,9 @@ with open ("Midterm1.txt",'w+') as f:
     f.write("hello")
     f.seek(0)
     print(f.read())
+
+
+# Working with csv files
+import pandas
+df = pandas.read_csv('hrdata.csv', index_col='Name', parse_dates=['Hire Date'])
+print(df)
